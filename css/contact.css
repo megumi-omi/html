@@ -1,0 +1,25 @@
+.contact tr{
+  line-height: 7rem;
+}
+.contact th{
+  width: 150px;
+  text-align: right;
+}
+.contact td{
+  padding-left: 10px;
+}
+.input_form{
+  width: 480px;
+}
+.send{
+  text-align: center;
+}
+.send a{
+  color: white;
+  font-size: 3rem;
+  background-color: #008b8b;
+  padding: 10px;
+}
+.send :hover{
+  opacity: 0.5;
+}
